@@ -47,14 +47,14 @@ import (
 )
 
 func main() {
-    queue := simple.NewStack()
+    queue := simple.NewQueue()
 
     for i := 0; i < 10; i++ {
         queue.Push(i)
     }
 
     for !queue.Empty() {
-        fmt.Println(queue.Top())
+        fmt.Println(queue.Front())
         queue.Pop()
     }
     // 0 1 2 3 4 5 6 7 8 9

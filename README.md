@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/le-michael/simple)](https://goreportcard.com/report/github.com/le-michael/simple)
 # simple
 A compilation of simple data-structures written in go
 

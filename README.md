@@ -10,7 +10,7 @@ Golang is a great language but it's missing some basic data structures. I made t
 The code is also simple to read for anyone trying to get themselves familiar with Go. 
 ## Usage
 
-#### Stack 
+### Stack 
 <details>
     
 <summary>Example</summary>

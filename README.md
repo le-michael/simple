@@ -13,7 +13,7 @@ The code is also simple to read for anyone trying to get themselves familiar wit
 #### Stack 
 <details>
     
-<summary>example</summary>
+<summary>Example</summary>
 <br>
 
 ```Go
@@ -40,10 +40,10 @@ func main() {
 ```
 </details>
 
-#### Queue 
+### Queue 
 <details>
     
-<summary>example</summary>
+<summary>Example</summary>
 <br>
     
 ```Go

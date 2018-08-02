@@ -1,4 +1,4 @@
-## simple
+# simple
 A compilation of simple data-structures written in go
 
 ## Why?
@@ -27,7 +27,6 @@ func main() {
 
     for !stack.Empty() {
         fmt.Println(stack.Top())
-        err := stack.Pop()
     }
     // 9 8 7 6 5 4 3 2 1 0
 }

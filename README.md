@@ -4,8 +4,7 @@ A compilation of simple data-structures written in go
 ## Why?
 Golang is a great language but it's missing some basic data structures. I made this package so I won't have to have to reimplement all these data structures.
 
-The code is also simple to read for anyone trying to get themselves famaliar with Go.
-
+The code is also simple to read for anyone trying to get themselves familiar with Go. 
 ## Usage
 
 #### Stack 

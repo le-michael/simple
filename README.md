@@ -1,4 +1,6 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/le-michael/simple)](https://goreportcard.com/report/github.com/le-michael/simple)
+[![Go Report Card](https://goreportcard.com/badge/github.com/le-michael/simple)](https://goreportcard.com/report/github.com/le-michael/simple) [![Build Status](https://travis-ci.org/le-michael/simple.svg?branch=master)](https://travis-ci.org/le-michael/simple) [![Coverage Status](https://coveralls.io/repos/github/le-michael/simple/badge.svg?branch=master)](https://coveralls.io/github/le-michael/simple?branch=master)
+
+
 # simple
 A compilation of simple data-structures written in go
 
